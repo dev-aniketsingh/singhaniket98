@@ -16,9 +16,7 @@
 
 <br />
 
-<br>
-[![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=singhaniket98&show_icons=true&theme=merko)](https://github.com/singhaniket98)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhaniket98&layout=compact&theme=merko)](https://github.com/singhaniket98/github-readme-stats)
+
 
 <br>
 [website]: https://singhaniket98.github.io/
@@ -38,4 +36,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<br>
+[![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=singhaniket98&show_icons=true&theme=merko)](https://github.com/singhaniket98)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhaniket98&layout=compact&theme=merko)](https://github.com/singhaniket98/github-readme-stats)
 -->
