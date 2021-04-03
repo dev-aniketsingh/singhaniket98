@@ -18,11 +18,7 @@
 
 
 
-<br>
-[website]: https://singhaniket98.github.io/
-[instagram]: https://www.instagram.com/aniiiiii_ket/
-[facebook]: https://www.facebook.com/aniketacous
-[linkedin]: https://www.linkedin.com/in/singh-k-aniket/
+
 <!--
 **singhaniket98/singhaniket98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,3 +38,9 @@ Here are some ideas to get you started:
 [![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=singhaniket98&show_icons=true&theme=merko)](https://github.com/singhaniket98)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhaniket98&layout=compact&theme=merko)](https://github.com/singhaniket98/github-readme-stats)
 -->
+
+
+[website]: https://singhaniket98.github.io/
+[instagram]: https://www.instagram.com/aniiiiii_ket/
+[facebook]: https://www.facebook.com/aniketacous
+[linkedin]: https://www.linkedin.com/in/singh-k-aniket/
