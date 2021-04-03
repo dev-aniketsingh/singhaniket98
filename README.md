@@ -10,7 +10,7 @@
 
  ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhaniket98&show_icons=true&theme=radical&hide=prs,stars,contribs)
 <br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhaniket98&langs_count=6&layout=compact)](https://github.com/singhaniket98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhaniket98&langs_count=10&layout=compact)](https://github.com/singhaniket98/github-readme-stats)
 <br>
 
 
