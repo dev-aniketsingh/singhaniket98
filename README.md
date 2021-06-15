@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### I am Aniket. I am currently a senior at Youngstown State University majoring in Computer Science with minor in Mathematics, and Data Analytics. 
-- 🌱 I’m currently learning Machine Learning and Statistical Learning 
+### I am Aniket. I am a graduate student at Youngstown State University. I am majoring in Mathematics with specialization in Statistics. I have completed my Bachelor's of Science in Computer Science with minor in Mathematics, and Data Analytics. 
+- 🌱 I’m currently learning Machine Learning and Statistical Learning. 
 - 🦉 I'm a Night owl 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love weightlifting, playing guitar, portrait photography, long boarding, and trading. 
