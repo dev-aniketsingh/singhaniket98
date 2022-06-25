@@ -11,6 +11,8 @@
  ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhaniket98&show_icons=true&theme=radical&hide=prs,stars,contribs)
 <br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhaniket98&langs_count=10&layout=compact)](https://github.com/singhaniket98/github-readme-stats)
+![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhaniket98&count_private=true&show_icons=true&theme=tokyonight)
+![Aniket's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=singhaniket98&theme=dark)
 <br>
 
 
