@@ -9,7 +9,7 @@
 
 
 
-![Aniket's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=singhaniket98&theme=dark)
+<!---![Aniket's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=singhaniket98&theme=dark)--->
 
 
 
