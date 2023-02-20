@@ -11,6 +11,11 @@
 
 ![Aniket's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=singhaniket98&theme=dark)
 
+<hr>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhaniket98&theme=dark&show_icons=true"/>
+<br><br>
+<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=singhaniket98&theme=dark&margin-w=5&title=MultiLanguage,Star,Commit,Repository,Follower"/>
+<br><br>
 
 
 <br>
