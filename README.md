@@ -18,18 +18,20 @@
 
 
 ### Connect with me:
-[<img align="left" alt="Aniket Singh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Aniket Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aniket Singh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Aniket Singh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+<div>
+    <a href="https://medium.com/@aniketkashyyap" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-222222?style=for-the-badge&logo=medium&logoColor=white" height="30">
+    </a><br>
+    <a href="[https://www.linkedin.com/in/singh-k-aniket/]" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
+    </a><br>
+    <a href="[https://singhaniket98.github.io/]" target="_blank">
+        <img src="https://img.shields.io/badge/Github Portfolio Page-222222?style=for-the-badge&logo=github&logoColor=white" height="30">
+    </a><br>  
+</div>
 
 <br />
 
 
 
-
-
-[website]: https://singhaniket98.github.io/
-[instagram]: https://www.instagram.com/aniiiiii_ket/
-[facebook]: https://www.facebook.com/aniketacous
-[linkedin]: https://www.linkedin.com/in/singh-k-aniket/
