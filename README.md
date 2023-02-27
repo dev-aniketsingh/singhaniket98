@@ -14,7 +14,9 @@
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=singhaniket98&theme=radical&show_icons=true"/>
 <br><br>
-<a href="https://github.com/aayush-dhakal">
+<hr>
+
+<a href="https://github.com/singhaniket98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=singhaniket98&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhaniket98&theme=radical&layout=compact" />
 </a>
