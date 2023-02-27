@@ -14,7 +14,10 @@
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=singhaniket98&theme=radical&show_icons=true"/>
 <br><br>
-<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=singhaniket98&theme=radical&margin-w=5&title=MultiLanguage,Star,Commit,Repository,Follower"/>
+<a href="https://github.com/aayush-dhakal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=singhaniket98&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhaniket98&theme=radical&layout=compact" />
+</a>
 <br><br>
 
 
