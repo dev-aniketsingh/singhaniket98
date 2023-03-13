@@ -9,19 +9,8 @@
 
 
 
-![Aniket's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=singhaniket98&theme=radical)
 
-<hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhaniket98&theme=radical&show_icons=true"/>
-<br><br>
-<hr>
-
-<a href="https://github.com/singhaniket98">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhaniket98&theme=radical&layout=compact" />
-</a>
-<br><br>
-
+(![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhaniket98&count_private=true)
 
 <br>
 
