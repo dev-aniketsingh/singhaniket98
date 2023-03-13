@@ -12,8 +12,6 @@
 
 ![Aniket's GitHub stats](https://github-readme-stats-ten-peach-52.vercel.app/api?username=singhaniket98&count_private=true&show_icons=true&theme=radical)
 
-<br>
-
 
 
 ### Connect with me:
