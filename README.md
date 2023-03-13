@@ -10,7 +10,7 @@
 
 
 
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhaniket98&count_private=true)
+![Aniket's GitHub stats](https://stats-eight-rosy.vercel.app/api?username=singhaniket98&count_private=true)
 
 <br>
 
