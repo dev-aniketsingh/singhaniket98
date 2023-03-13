@@ -13,8 +13,7 @@
 ![Aniket's GitHub stats](https://github-readme-stats-ten-peach-52.vercel.app/api?username=singhaniket98&count_private=true&show_icons=true&theme=radical)
 
 <br>
-[![Aniket's Top Langs](https://github-readme-stats-ten-peach-52.vercel.app/api/top-langs/?username=singhaniket98)](https://github.com/singhaniket98/github-readme-stats)
-
+[![Aniket's Top Langs](https://github-readme-stats-ten-peach-52.vercel.app/api/top-langs/?username=singhaniket98)]
 
 
 
