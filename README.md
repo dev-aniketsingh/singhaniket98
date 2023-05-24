@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Aniket. I am a graduate student at Youngstown State University. I am majoring in Computing and Information Systems with specialization in Machine Learning. I have completed my Bachelor's of Science in Computer Science with minor in Mathematics, and Data Analytics. 
+### I am Aniket.I have a Master's in Computing and Information Systems with specialization in Machine Learning. I have completed my Bachelor's of Science in Computer Science with minor in Mathematics, and Data Analytics.
 - 🌱 I’m currently learning Machine Learning and Statistical Learning. 
 - 🦉 I'm a Night owl 
 - 😄 Pronouns: He/Him
