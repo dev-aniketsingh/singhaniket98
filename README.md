@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Machine Learning and Statistical Learning. 
 - 🦉 I'm a Night owl 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love weightlifting, portrait photography, long boarding, and trading. 
-- 💬 Ask me anything 
+- ⚡ Fun fact: I love weightlifting, portrait photography, long boarding, and stocks trading. 
+- 💬 Ask me anything about Artificial Intelligence and Software Development 
 
 
 
