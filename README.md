@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-### I am Aniket. I have a Master's in Computing and Information Systems with specialization in Machine Learning. I have completed my Bachelor's of Science in Computer Science with minor in Mathematics, and Data Analytics.
+### I am Aniket. I currently work as a Vision Systems Engineer at Ultium Cells. I have a Master's in Computing and Information Systems with a specialization in Machine Learning/Deep Learning. I have completed my Bachelor of Science in Computer Science with a minor in Mathematics and Data Analytics.
 - 🌱 I’m currently learning Machine Learning and Statistical Learning. 
 - 🦉 I'm a Night owl 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love weightlifting, portrait photography, long boarding, and stocks trading. 
+- ⚡ Fun fact: I love weightlifting, portrait photography, longboarding, and stock trading. 
 - 💬 Ask me anything about Artificial Intelligence and Software Development 
 
 
